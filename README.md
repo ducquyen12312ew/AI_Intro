@@ -11,6 +11,7 @@ cd “path of your project”
 - Open terminal and run to install yolov5:
 ```bash
 pip install torch opencv-python numpy ultralytics
+pip install seaborn
 ```
 # 2 How to use: 
 Run simulation with webcam:
