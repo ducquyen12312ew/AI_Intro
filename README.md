@@ -19,7 +19,7 @@ python main.py --debug
 ```
 Run simulation with video:
 ```bash
-Create a `output` foler in your project
+Create an `output` foler in your project
 python main.py --video path/of/your/video --output ./output/result.mp4 --debug
 ```
 Detailed video analysis:
